@@ -8,11 +8,12 @@ The dataset doesn't contain Date hereby not giving us the opportunity to analyze
 
 **Observation**
 
-Of all Staff Attrition with a total number of 237, Sales Executive, research Scientist, Lab. Technician, Manufacturing director and Health Representatives took 84% with a total number of  199.
-We have more of Male Attrition compare to Female.
-It is observed that long distance from home to work doesn't encourage attrition, in fact we have more attrition to employee living closer to work.
-We have more of attrition between the age of 25 to 36.
-Further analysis revealed that staff with Salary hike lesser than 19% responded to attrition with a total number of 191 which is 80% of overall attrition.
+1. Of all Staff Attrition with a total number of 237, Sales Executive, research Scientist, Lab. Technician, Manufacturing director and Health Representatives took 84% 
+   with a total number of  199.
+2. We have more of Male Attrition compare to Female.
+3. It is observed that long distance from home to work doesn't encourage attrition, in fact we have more attrition to employee living closer to work.
+4. We have more of attrition between the age of 25 to 36.
+5. Further analysis revealed that staff with Salary hike lesser than 19% responded to attrition with a total number of 191 which is 80% of overall attrition.
 
 
 **Recommendation**
